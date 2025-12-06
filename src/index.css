@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@font-face {
+  font-family: fa;
+  src: url();
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {

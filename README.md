@@ -28,3 +28,14 @@ Goals:
   - [ ] Manage Sections and Grades
   - [ ] Archives
   - [ ] Documents and Stuff
+
+Dependencies
+
+- [Vite](vite.dev)
+- [React](react.dev)
+- [Vercel](vercel.com)
+- [Neon](neon.com)
+- [shadcn/ui](ui.shadcn.com)
+- [Node.js](nodejs.org)
+- [Hono](hono.dev)
+- AWS S3 - to do
