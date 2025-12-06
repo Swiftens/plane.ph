@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { GalleryVerticalEnd } from "lucide-react";
 import { LoginForm } from "@/components/login-form";
 import "./App.css";
