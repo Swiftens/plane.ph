@@ -35,6 +35,8 @@ Dependencies
 - [React](react.dev)
 - [Vercel](vercel.com)
 - [Neon](neon.com)
+- [argon2](https://www.npmjs.com/package/@node-rs/argon2)
+- [Tailwind](tailwindcss.com)
 - [shadcn/ui](ui.shadcn.com)
 - [Node.js](nodejs.org)
 - [Hono](hono.dev)

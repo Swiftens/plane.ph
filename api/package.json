@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
+    "@node-rs/argon2": "^2.0.2",
     "hono": "^4.10.7"
   },
   "devDependencies": {
